@@ -1,0 +1,23 @@
+{
+    "facebook_email": "VOTRE_EMAIL",
+    "facebook_password": "VOTRE_MOT_DE_PASSE",
+    "groups": [
+        "URL_DU_GROUPE1",
+        "URL_DU_GROUPE2",
+        "URL_DU_GROUPE3"
+        // Ajoutez autant d'URLs de groupes que nécessaire
+    ],
+    "posts": [
+        {
+            "message": "Message 1",
+            "image_path": "chemin/vers/votre/image1.jpg"
+        },
+        {
+            "message": "Message 2",
+            "image_path": "chemin/vers/votre/image2.jpg"
+        }
+        // Ajoutez autant de messages et images que nécessaire
+    ],
+    "browser": "chrome",  // Ou "firefox"
+    "profile_path": "chemin/vers/votre/profil"
+}
